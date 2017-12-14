@@ -1,0 +1,167 @@
+﻿Room Number,Room Name,Location,Capacity,Category,Furniture Type,Digital Projection,Projector Screen,DVD,VHS,Visualiser,Radio Mic,TV monitor,Interactive Whiteboard,Whiteboard (s),Other,Black Out Blinds,Telephone Extension,Comments,Space controlled by 
+A1,Atrium Stand 1,East Building,multi-use,exhibition space,None,,,,,,,,,,,,N/A,exhibition space only; individual bookings subject to separate risk assessments,Facilties 
+A2,Atrium Stand 2,East Building,multi-use,exhibition space,None,,,,,,,,,,,,N/A,exhibition space only; individual bookings subject to separate risk assessments,Facilties 
+A3,Atrium Stand 3,East Building,multi-use,exhibition space,None,,,,,,,,,,,,N/A,exhibition space only; individual bookings subject to separate risk assessments,Facilties 
+A4,Atrium Stand 4,East Building,multi-use,exhibition space,None,,,,,,,,,,,,N/A,exhibition space only; individual bookings subject to separate risk assessments,Facilties 
+AVA.1.02,AVA.1.02 - Studio 8 YRO,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to ADI bookings only,ADI
+AVA.1.06A,AVA.1.06A - Studio 7 DVAC,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to ADI bookings only,ADI
+AVA.1.06B,AVA.1.06B - Studio 6 Photo Shoot Studio,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to ADI bookings only,ADI
+AVA.1.06D,AVA.1.06D - Studio 14 Photography,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to ADI bookings only,ADI
+AVA.1.06E,AVA.1.06E - Studio 13 Main Graphic Design Studio,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to ADI bookings only,ADI
+AVA.1.18,AVA.1.18 - Studio 5 (ACE) Architecture,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to ACE bookings only,ACE
+AVA.1.19,AVA.1.19 - Product Design Studio,AVA Building,30,flat room,specialist workstations,,,,,,,,,,,,,Limited to ACE bookings only,ACE
+AVA.1.25,AVA.1.25 - Digital Darkroom,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to ADI bookings only,ADI
+AVA.1.27,PC Laboratory,AVA Building,20,flat room,IT Workstations,,,,,,,,,●,,,N/A,Limited to ACE bookings only,ACE
+AVA.1.28,PC / Mac Laboratroy,AVA Building,29,flat room,IT Workstations,,,,,,,,,●,,,N/A,Limited to ACE bookings only,ACE
+AVA.1.29,MacLab,AVA Building,20,flat room,IT Workstations,,,,,,,,,●,,,N/A,Limited to ADI bookings only,ADI
+AVA.1.34,AVA.1.34 - Fashion Cad Space,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to ADI bookings only,ADI
+AVA.1.40,AVA.1.40 - Studio 11 Fashion,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to ADI bookings only,ADI
+AVA.1.44,AVA.1.44 - Studio 10 Textiles,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to ADI bookings only,ADI
+AVA.1.45,AVA.1.45,AVA Building,16,flat room,specialist workstations,,,,,,,,,,,,,Limited to ADI bookings only,ADI
+AVA.1.46A,AVA.1.46A - Studio 9,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to ADI bookings only,ADI
+AVA.1.46B,AVA.1.46B - Studio 12,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to ADI bookings only,ADI
+AVA..1.49/51,AVA..1.49/51 - Studio 15 Graphic Design Studio,AVA Building,15,flat room,tables and chairs,,,,,,,,,●,,,N/A,Limited to ADI bookings only,ADI
+AVA.G.04,AVA.G.04 - Studio 1 Architecture,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to ACE bookings only,ACE
+AVA.G.12,AVA.G.12 - Metal/Casting Workshop,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to AVA bookings only,ADI
+AVA.G.22,AVA.G.22 - Studio 2 Fine Art,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to AVA bookings only,ADI
+AVA.G.25,AVA.G.25 - Textiles Workshop,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to AVA bookings only,ADI
+AVA.G.26,AVA.G.26 - AVA Lecture Theatre,AVA Building,50,flat room,chairs only,●,,,,,,,,●,,,N/A,,Shared space ADI/ACE
+AVA.G.28,AVA.G.28 - Studio 3 Fine Art,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to AVA bookings only,ADI
+AVA.G.34,AVA.G.34 - Imersive Lab,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to AVA bookings only,ADI
+AVA.G.35,AVA.G.35 - Print Workshop,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to AVA bookings only,ADI
+AVA.G.36,AVA.G.36 - Studio 4 (MA Space) Fine Art,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to AVA bookings only,ADI
+AVA.G.45,AVA.G.45 - Login Gateway,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to AVA bookings only,ADI
+AVA.G.46,AVA.G.46 - Photography Darkroom,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to AVA bookings only,ADI
+AVA.G.48,AVA.G.48 - Seminar Room,AVA Building,15,flat room,specialist workstations,,,,,,,,,,,,,,ADI
+DL.3.02,DL.3.02,Docklands Library,30,flat room,chairs with writing tablets,●,●,●,●,,,,,●●,,,x6062,,Facilties 
+DL.3.03,DL.3.03,Docklands Library,30,flat room,chairs with writing tablets,●,●,●,●,,,,,●●,,,x6065,,Facilties 
+DL.3.04,DL.3.04,Docklands Library,30,flat room,tables and chairs,●,●,●,●, ,,,,●●,,,x2844,,Facilties 
+DL.3.05,DL.3.05,Docklands Library,30,flat room,tables and chairs,●,●,●,●,,,,,●●,,,x6066,,Facilties 
+DL.3.06,DL.3.06,Docklands Library,25,flat room,tables and chairs,●,●,●,●,,,,,●●,,,x6063,,Facilties 
+DL.3.12,DL.3.12,Docklands Library,25,flat room,tables and chairs,●,●,●,●,,,,,●●,,,x6070,Not in use,Facilties 
+DL.3.14,DL.3.14,Docklands Library,25,flat room,tables and chairs,●,●,●,●,,,,,●,,,x6067,Not in use,Facilties 
+DL3.18,DL3.18,Docklands Library,25,flat room,tables and chairs,●,,●,●, ,,,,●●,,,x6068,Not in use,Facilties 
+DLD,DLD - Docklands Library Dockside,Docklands Library,multi-use,exhibition space,None,,,,,,,,,,,,N/A,exhibition space only; individual bookings subject to separate risk assessments,Facilties 
+DLF,DLF - Docklands Library Foyer,Docklands Library,multi-use,exhibition space,None,,,,,,,,,,,,N/A,exhibition space only; individual bookings subject to separate risk assessments,Facilties 
+ DLHA,DLHA – Docklands Hub Atrium,East Building - Docklands Hub,multi-use,exhibition space,None,,,,,,,,,,,,N/A,Bookings subject to approval from Student Support -Risk Assessment maybe required,Facilties 
+DLHQZ,DLHQZ– Docklands Hub Quiet Zone,East Building - Docklands Hub,multi-use,exhibition space,Social Space,,,,,,,,,,,,N/A,Bookings subject to approval from Student Support -Risk Assessment maybe required,HUB
+DLHSA,DLHSA– Docklands Hub Social Area,East Building - Docklands Hub,multi-use,exhibition space,Social Space,,,,,,,,,,,,N/A,Bookings subject to approval from Student Support -Risk Assessment maybe required,HUB
+EB.1.01,EB.1.01,East Building,50,flat room,chairs with writing tablets,●,,●,●, ,,,,●●,,,x7412,,Facilties 
+EB.1.03,EB.1.03,East Building,50,flat room,chairs with writing tablets, ,,●, ,,,●, ,●●,,,x7039,,Facilties 
+EB.1.04,EB.1.04,East Building,45,flat room,tables and chairs, ,,●, ,, ,●, ,●●,,,x7029 ,,Facilties 
+EB.1.07,EB.1.07,East Building,50,flat room,tables and chairs, ,,●, ,,,,●,●●●,,,x7030,,Facilties 
+EB.1.08,EB.1.08,East Building,40,flat room,chairs with writing tablets,●,●,●,●,,,,,●●,,,x7104,,Facilties 
+EB.1.105,EB.1.105,East Building,40,flat room,tables and chairs, , ,●, ,, ,●,,●●,Blue Ray,,x7394 ,,Facilties 
+EB.1.37,EB.1.37 - Matrix East,East Building,,flat room,specialist workstations,,,,,,,,,,,,,Limited to ADI bookings only,ADI
+EB.1.39,Board Room,East Building,20,meeting room,board room,●,●,●,●,,,,,●,,,x7083,limited to bookings for meetings only,Facilties 
+EB.1.40,EB.1.40,East Building,30,flat room,tables and chairs,●,●,●,●,,,,,●●,,,x7064,,Facilties 
+EB.1.41,EB.1.41,East Building,50,flat room,tables and chairs,●,●,●,●,●,,,,●●,,,x7329,,Facilties 
+EB.1.42,EB.1.42,East Building,25,flat room,tables and chairs,●,●,●,●,,,,,●●,,,x7285,,Facilties 
+EB.1.44,EB.1.44,East Building,30,flat room,tables and chairs, , ,●, ,,,●, ,●●,Blue Ray,●,x7126,,Facilties 
+EB.1.45,EB.1.45,East Building,30,flat room,tables and chairs,●,●,●,●,,,,,●,,,x7258,,Facilties 
+EB.1.46,EB.1.46,East Building,30,flat room,chairs with writing tablets,●,●,●, ,,●,,,●●●,Blue Ray,●,x7424,,Facilties 
+EB.1.62,EB.1.62,East Building,25,flat room,tables and chairs, , ,●, ,,,●, ,●●,Blue Ray,,x7353 ,,Facilties 
+EB.1.63,EB.1.63,East Building,36,flat room,tables and chairs,●,●,●,●,,●,,,●,,,x7591,,Facilties 
+EB.2.40,EB.2.40,East Building,,flat room,specialist workstations,,,,,,,,,,,,,Limited to ADI bookings only,ADI
+EB.2.41,EB.2.41,East Building,,flat room,specialist workstations,●,,●,●,,,,●, ,,,x7123,Limited to Social Sciences bookings only,SOC
+EB.2.43,EB.2.43,East Building,200,tiered room,tiered seating,●,,●, ,●,●,,,●●●,Blue Ray,,x7080,,Facilties 
+EB.2.44,EB.2.44,East Building,200,tiered room,tiered seating,●,,●, ,●,●,,,●●●,Blue Ray,,x7414,,Facilties 
+EB.2.45,EB.2.45,East Building,32,flat room,tables and chairs, ,,●, ,,,●, ,●●●,,,x7120,,Facilties 
+EB.2.46,EB.2.46,East Building,36,flat room,tables and chairs,●,●,●,●,,●,,,●●,,,x7117,,Facilties 
+EB.2.88,EB.2.88,East Building,60,flat room,tables and chairs,●,●,●,●,,,,,●●,,,x7587,,Facilties 
+EB.3.11,EB.3.11,East Building,40,flat room,chairs with writing tablets,●,●,●, ,●,,,,●●,Blue Ray,,x7654,,Facilties 
+EB.3.12,EB.3.12,East Building,30,flat room,tables and chairs,●,●,●, ,●,,,,●,Blue Ray,,x7172,,Facilties 
+EB.3.15,EB.3.15,East Building,30,flat room,chairs with writing tablets,●,●,●,●,,,,,●,,●,x7111,,Facilties 
+EB.3.16,EB.3.16,East Building,70,flat room,tables and chairs,●,●,●,●,,,,,●,,●,x7614,,Facilties 
+EB.3.17,EB.3.17,East Building,30,flat room,chairs with writing tablets,●,●,●,●,,,,,●,,●,x7195,,Facilties 
+EB.3.18,EB.3.18,East Building,25,flat room,chairs with writing tablets,●,●,●, ,●,,,,●●,Blue Ray,●,x7198,,Facilties 
+EB.3.19,EB.3.19,East Building,60,flat room,tables and chairs,●,●,●,●,,,,,●●,,●,x7131,,Facilties 
+EB.G.06,EB.G.06,East Building,120,tiered room,tiered seating,●,●,●, ,●,,,,●●●,Blue Ray,●,x7108,,Facilties 
+EB.G.07,EB.G.07,East Building,25,flat room,chairs with writing tablets,●,●,●,●,●,,,,●●,,●,x7236,,Facilties 
+EB.G.08,EB.G.08,East Building,90,tiered room,tiered seating,●,●,●,,●,,,,●●,,●,x7102,,Facilties 
+EB.G.10,EB.G.10,East Building,50,flat room,chairs with writing tablets,●,●,●,,●,●,,,●●,Blue Ray,●,x7272,,Facilties 
+ITC01,Cluster 1,Docklands Library,33,flat room,IT Workstations,,,,,,,,,●,,,N/A,Enclosed IT cluster,IT
+ITC02,Cluster 2,Docklands Library,33,flat room,IT Workstations, ,,,,,,●,,●●,,,N/A,Enclosed IT cluster,IT
+ITC03,Cluster 3,Docklands Library,25,flat room,IT Workstations, ,,,,,,●,,●●,,,N/A,Enclosed IT cluster,IT
+ITC04,Cluster 4,Docklands Library,21,flat room,IT Workstations, ,,,,,,●,,●●,,,N/A,Enclosed IT cluster,IT
+ITC05,Cluster 5,Docklands Library,25,flat room,IT Workstations, ,,,,,,●,,●●,,,N/A,Enclosed IT cluster,IT
+ITC06,Cluster 6,Docklands Library,17,flat room,IT Workstations, ,,,,,,●,,●●,,,N/A,Enclosed IT cluster,IT
+ITC07,Cluster 7,Docklands Library,25,flat room,IT Workstations,●,,,,,,,●,●,,,N/A,Open Cluster,IT
+ITC08,Cluster 8,Docklands Library,25,flat room,IT Workstations,●,,,,,,,●,●,,,N/A,Open Cluster,IT
+ITC09,Cluster 9,Docklands Library,25,flat room,IT Workstations,●,,,,,,,●,●,,,N/A,Open Cluster,IT
+ITC10,Cluster 10,Docklands Library,12,flat room,IT Workstations,,,,,,,,,,,,N/A,Open Cluster w/ no AV,IT
+ITC11,Cluster 11,Docklands Library,25,flat room,IT Workstations,●,,,,,,,●,●,,,N/A,Open Cluster,IT
+ITC12,Cluster 12,Docklands Library,25,flat room,IT Workstations,●,,,,,,,●,●,,,N/A,Open Cluster,IT
+ITC13,Cluster 13,Docklands Library,25,flat room,IT Workstations, ,,,,,,●, ,●●,,,N/A,Open Cluster,IT
+ITC14,Cluster 14,Docklands Library,25,flat room,IT Workstations, ,,,,,,●, ,●●,,,N/A,Open Cluster,IT
+ITC15,Cluster 15,Docklands Library,25,flat room,IT Workstations,●,,,,,,,●,●,,,N/A,Open Cluster,IT
+ITC16,Cluster 16,Docklands Library,25,flat room,IT Workstations,●,,,,,,,●,●,,,N/A,Open Cluster,IT
+ITC17,Cluster 17,Docklands Library,20,flat room,IT Workstations,,,,,,,,,,,,N/A,Open Cluster,IT
+ITC18,Cluster 18,Docklands Library,25,flat room,IT Workstations,,,,,,,,,,,,N/A,Open Cluster w/ no AV,IT
+ITC19,Cluster 19,Docklands Library,25,flat room,IT Workstations,,,,,,,,,,,,N/A,Open Cluster w/ no AV,IT
+ITC20,Cluster 20,Docklands Library,25,flat room,IT Workstations,,,,,,,,,,,,N/A,Open Cluster w/ no AV,IT
+KD.1.21,KD.1.21 - Fashion Workshop,Knowledge Dock,15,flat room,specialist workstations,,,,,,,,,,,,,Limited to ADI bookings only,ADI
+KD.1.22,KD.1.22,Knowledge Dock,20,flat room,specialist workstations,,,,,,,,,,,,,Limited to ADI bookings only,ADI
+KD.1.23,KD.1.23,Knowledge Dock,20,flat room,specialist workstations,,,,,,,,,,,,,Limited to ADI bookings only,ADI
+KD.1.27,Computing & Technology Product Design Teaching Room,Knowledge Dock,20,flat room,specialist workstations,●,,,,,,,,●,,,N/A,Limited to ACE bookings only,ACE
+KD.1.28,KD.1.28,Knowledge Dock,30,flat room,specialist workstations,●,●,●,●,,,,,●●,,,x6094,Limited to ACE bookings only,ACE
+KD.1.29,KD.1.29,Knowledge Dock,30,flat room,specialist workstations,●,●,●,●,,,,,●●,,,x6095,Limited to ACE bookings only,ACE
+KD.1.30,KD.1.30,Knowledge Dock,25,flat room,specialist workstations,●,●,●,●,,,,,●●,,,x6096,Limited to ACE bookings only,ACE
+KD.1.31,Computing & Technology Electrical Engineering Laboratory,Knowledge Dock,multi-use,flat room,specialist workstations,,,,,,,,,,,,N/A,Limited to ACE bookings only,ACE
+KD.2.14,Computing & Technology Professional Qualifications Laboratory,Knowledge Dock,20,flat room,specialist workstations,,,,,,,,,,,,N/A,Limited to ACE bookings only,ACE
+KD.2.15,Computing & Technology Networking Laboratory,Knowledge Dock,32,flat room,specialist workstations,,,,,,,,,,,,N/A,Limited to ACE bookings only,ACE
+KD.2.17,Media Production Lab,Knowledge Dock,16,flat room,specialist workstations,●,,,,,,,,,,,,Limited to ADI bookings only,ADI
+KD.2.18,KD.2.18 Advertising Studio,Knowledge Dock,20,flat room,specialist workstations,,,,,,,,,,,,,Limited to ADI bookings only,ADI
+KD.2.20,KD.2.20 Journalism News Room,Knowledge Dock,24,flat room,specialist workstations,●,,●,●,,,,,●,,,x6098,Limited to ADI bookings only,ADI
+KD.2.26,Computing & Technology Drawing Office,Knowledge Dock,20,flat room,specialist workstations,,,,,,,,,,,,N/A,Limited to ACE bookings only,ACE
+KD.2.28,Computing & Technology Laboratory,Knowledge Dock,multi-use,flat room,specialist workstations,,,,,,,,,,,,N/A,Limited to ACE bookings only,ACE
+KD.G.13,Computing & Technology FESTO Laboratory,Knowledge Dock,multi-use,flat room,specialist workstations,,,,,,,,,,,,N/A,Limited to ACE bookings only,ACE
+KD.G.14,Survey Store ,Knowledge Dock,multi-use,flat room,specialist workstations,,,,,,,,,,,,,Limited to ACE bookings only,ACE
+KD.G.20,KD.G.20 - Design Studio,Knowledge Dock,18,flat room,specialist workstations,,,,,,,,,,,,,Limited to ADI bookings only,ADI
+KD.G.22,Computing & Technology Hydraulics Laboratory,Knowledge Dock,multi-use,flat room,specialist workstations,,,,,,,,,,,,N/A,Limited to ACE bookings only,ACE
+KD.G.23,Computing & Technology Engineering Science Laboratory,Knowledge Dock,multi-use,flat room,specialist workstations,,,,,,,,,,,,N/A,Limited to ACE bookings only,ACE
+KD.G.24,Computing & Technology PCB Laboratory,Knowledge Dock,multi-use,flat room,specialist workstations,,,,,,,,,,,,N/A,Limited to ACE bookings only,ACE
+KD.G.26,Computing & Technology Highways Laboratory,Knowledge Dock,multi-use,flat room,specialist workstations,,,,,,,,,,,,N/A,Limited to ACE bookings only,ACE
+KD.G.27,Computing & Technology Rocks & Soils Laboratory,Knowledge Dock,multi-use,flat room,specialist workstations,,,,,,,,,,,,N/A,Limited to ACE bookings only,ACE
+KD.G.32,Computing & Technology Product Design Studio 1,Knowledge Dock,multi-use,flat room,specialist workstations,,,,,,,,,,,,N/A,Limited to ACE bookings only,ACE
+KD.G.33,Computing & Technology Product Design Studio 2,Knowledge Dock,multi-use,flat room,specialist workstations,,,,,,,,,,,,N/A,Limited to ACE bookings only,ACE
+KDS,Knowledge Dock Square,Knowledge Dock,multi-use,exhibition space,None,,,,,,,,,,,,N/A,exhibition / marquee space only; individual bookings subject to separate risk assessments,Facilties 
+MLT,Main Lecture Theatre,Docklands Library,400,tiered room,tiered seating,●,,●, ,●,●,,,●,Blue Ray,,x7339,,Facilties 
+NB.2.05,NB.2.05,North Building,100,flat room,tables and chairs,●,,●, ,●,●,,,●,,,,,Facilties 
+SD.1.03,SD.1.03,Sports Dock,44,flat room,tables and chairs,●,●,●,,●,,,,●●,Blue Ray,,x6819,Partitioned room with SD.1.04,Facilties 
+SD.1.04,SD.1.04,Sports Dock,44,flat room,tables and chairs,●,●,●,,●,,,,●●,Blue Ray,,x6819,Partitioned room with SD.1.03,Facilties 
+SD.1.08,SD.1.08,Sports Dock,50,flat room,tables and chairs,●,●,●,,●,●,,,●,Blue Ray,,x6815,Partitioned room with SD.1.09,Facilties 
+SD.1.09,SD.1.09,Sports Dock,50,flat room,tables and chairs,●,●,●,,●,●,,,●,Blue Ray,,x6815,Partitioned room with SD.1.08,Facilties 
+SD.1.12,SD.1.12,Sports Dock,56,Harvard Style Theatre,Harvard Style Theatre,●,●,●,,●,,,,●●,Blue Ray,,x6818,Tiered semi-circle classroom,Facilties 
+SD.1.13,SD.1.13,Sports Dock,56,Harvard Style Theatre,Harvard Style Theatre,●,●,●,,●,,,,●●,Blue Ray,,x6812,Tiered semi-circle classroom,Facilties 
+SD.1.14,SD.1.14,Sports Dock,44,Harvard Style Theatre,Harvard Style Theatre,●,●,●,,●,,,,●●,Blue Ray,,x6813,Tiered semi-circle classroom,Facilties 
+SD.1.22,SD.1.22,Sports Dock,30,flat room,tables and chairs,●,●,●,,●,,,,●●,Blue Ray,,x6823,,Facilties 
+SD.1.23,SD.1.23,Sports Dock,35,flat room,tables and chairs,●,●,●,,●,●,,,●●,Blue Ray,,x6814,,Facilties 
+SD.1.24,SD.1.24,Sports Dock,36,flat room,tables and chairs,●,●,●,,●,,,,●●,Blue Ray,,x6811,,Facilties 
+SD.2.07,SD.2.07 - Meeting Room,Sports Dock,12,meeting room,board room,,,●,,,,●,,●,,,,Small meeting room,Facilties 
+SD.2.15,SD.2.15 - Meeting Room,Sports Dock,10,meeting room,specialist workstations,,,,,,, ,, ,,,,Awaiting Info,Awaiting Info
+SD.2.16,SD.2.16 - Physiology Lab,Sports Dock,multi-use,flat room,specialist workstations,,,,,,,,,,,,,Limited to HSB bookings only,HSB
+USG,Docklands University Square - Grassy Area,External,multi-use,exhibition space,None,,,,,,,,,,,,N/A,exhibition / marquee space only; individual bookings subject to separate risk assessments,Facilties 
+USLL, Docklands University Square Lower Level,External,multi-use,exhibition space,None,,,,,,,,,,,,N/A,exhibition / marquee space only; individual bookings subject to separate risk assessments,Facilties 
+USUL, Docklands University Square Upper Level,External,multi-use,exhibition space,None,,,,,,,,,,,,N/A,exhibition / marquee space only; individual bookings subject to separate risk assessments,Facilties 
+WB.1.01,WB.1.01,West Building,40,flat room,specialist workstations,●,,,,,,,,,,,,Limited to ADI bookings only,ADI
+WB.1.07,Ludology Lab,West Building,40,flat room,specialist workstations,,,,,,,,,●,,,N/A,Limited to ADI bookings only,ADI
+WB.1.11,ADI Mac Laboratory 4,West Building,20,flat room,specialist workstations,,,,,,,,,●,,,N/A,Limited to ADI bookings only,ADI
+WB.1.15,ADI PC Laboratory 2,West Building,20,flat room,specialist workstations,,,,,,,,,●,,,N/A,Limited to ADI bookings only,ADI
+WB.1.16,ADI  Writing Centre,West Building,20,flat room,specialist workstations,,,,,,,,,●,,,N/A,Limited to ADI bookings only,ADI
+WB.1.21,Digital Media Studio,West Building,11,flat room,specialist workstations,,,,,,,,,,,,N/A,Limited to ADI bookings only,ADI
+WB.1.26,ADI Mac Laboratory 2,West Building,20,flat room,specialist workstations,,,,,,,,,●,,,N/A,Limited to ADI bookings only,ADI
+WB.1.27,ADI Mac Laboratory 1,West Building,20,flat room,specialist workstations,,,,,,,,,●,,,N/A,Limited to ADI bookings only,ADI
+WB.2.01,WB.2.01,West Building,60,flat room,chairs with writing tablets,●,●,●,●,●,,,,●,,,x7133,Hard flooring,Facilties 
+WB.2.03,WB.2.03,West Building,40,flat room,tables and chairs,●,●,●,●,,,,,●,,,x7121,,Facilties 
+WB.2.04,WB.2.04,West Building,40,flat room,tables and chairs,●,●,●,●,,,,,●,,,x7127,,Facilties 
+WB.2.05,WB.2.05,West Building,40,flat room,tables and chairs,●,●,●,●,,,,,●,,,x7136,,Facilties 
+WB.2.06,WB.2.06,West Building,40,flat room,tables and chairs,●,●,●,●,,,,,●,,,x7112,,Facilties 
+WB.2.07,WB.2.07,West Building,25,flat room,chairs with writing tablets,●,●,●,,,,,,●,,,,,Facilties 
+WB.3.01,WB.3.01,West Building,70,flat room,chairs with writing tablets,●,●,●,●,,,,,●●,,●,x7142,Hard flooring,Facilties 
+WB.3.02,WB.3.02,West Building,70,flat room,chairs with writing tablets,●,●,●,●,,,,,●●,,,x7139,Hard flooring,Facilties 
+WB.G.02,WB.G.02,West Building,237,tiered room,tiered seating,●,,●, ,●,●,,,,,,x6448,,Facilties 
+WB.G.03,ADI Audio Live Room,West Building,5,flat room,specialist workstations,,,,,,,,,,,,N/A,Limited to ADI bookings only,ADI
+WB.G.05,ADI Multi-purpose Studio 1,West Building,20,flat room,specialist workstations,,,,,,,,,,,,N/A,Limited to ADI bookings only,ADI
+WB.G.09,ADI Multi-purpose Studio 2,West Building,20,flat room,specialist workstations,,,,,,,,,,,,N/A,Limited to ADI bookings only,ADI
+WBF,West Building Foyer,West Building,multi-use,exhibition space,None,,,,,,,,,,,,N/A,exhibition space only; individual bookings subject to separate risk assessments,Facilties 
